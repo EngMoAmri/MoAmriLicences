@@ -1,0 +1,69 @@
+Privacy Policy
+    Last updated [December 10, 2021].
+    
+    MoAmri respects the privacy of our users. 
+    This Privacy Policy explains how we collect, use and disclose your information 
+    when you use our mobile application (the “Images Colorizer”). 
+    Please read this Privacy Policy carefully. 
+    IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, 
+    PLEASE DO NOT USE THE APPLICATION.
+
+    We reserve the right to make changes to this 
+    Privacy Policy at any time and for any reason. 
+    We will alert you about any changes by updating 
+    the “Last updated” date of this Privacy Policy.
+    You are encouraged to periodically review this 
+    Privacy Policy to stay informed of updates. 
+    You will be deemed to have been made aware of, 
+    will be subject to, and will be deemed to have accepted 
+    the changes in any revised Privacy Policy by your 
+    continued use of the Application after the date 
+    such revised Privacy Policy is posted.
+    
+    We built the Images Colorizer app as an Ad Supported app.
+    Information Collection and Use:
+        This App request the user to add an image to be colored,
+        the image will be uploaded to the server then processed in the server then it's returned to the user as a colored image.
+        The original image and the colored image will will not be saved in our server.
+        
+    Third-Party Advertisers and Services:
+        We use third-party advertising companies 
+        to serve ads when you visit the Application. 
+        These companies may use information about 
+        your visits to the Application.
+        The app does use third party services that may collect
+        information used to identify you.
+          
+    Links to privacy policy of third party advertisers and services used by the app
+        - Google Play Services https://www.google.com/policies/privacy/ 
+        - AdMob https://support.google.com/admob/answer/6128543?hl=en
+          
+    This Privacy Policy does not apply to the 
+    third-party libraries, so we give no guarantee if they
+    collect and use data about you. We are not responsible for 
+    any of the data collected by any such third party.
+
+    Link to third party libraries used by the app
+        - OKHTTP https://github.com/square/okhttp
+        - Android Image Cropper https://github.com/ArthurHub/Android-Image-Cropper
+        - Glide https://github.com/bumptech/glide
+        - Material Ripple https://github.com/balysv/material-rippler
+        - Loading Button Android https://github.com/leandroBorgesFerreira/LoadingButtonAndroid
+    
+    Mobile Device Access and Permissions:
+        We may request access or permission to 
+        certain features from your mobile device to make our app's functions operate correctly, 
+        including your mobile device’s [access network state, internet, read internal storage, write internal storage]. 
+        the access network state and internet 
+        permissions are required to monitor network and uploading and downloading images,
+        the read internal storage permission is required to add images be colored,
+        If you wish to change our access or permissions, 
+        you may do so in your device’s settings.
+      
+    USE OF YOUR INFORMATION:
+        The information we collect will be used like this:
+            Images just uploaded to the server, processed in the server then returned as a colored image to the user.
+            
+    Contact Us:
+        If you have any questions or suggestions about my Privacy Policy, 
+        do not hesitate to contact us at eng.mo.amri@gmail.com.
